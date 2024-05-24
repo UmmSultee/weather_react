@@ -1,5 +1,10 @@
-import React, { useState } from "react";
-import Reactdom from "react-dom";
-import { Axios } from "axios";
+import React from "react";
 
-export default function Weather() {}
+export default function Weather() {
+  return (
+    <form>
+      <input type="search" />
+      <input type="submit" value="Search" />
+    </form>
+  );
+}
