@@ -12,7 +12,7 @@ function App() {
         <a
           href="https://init-weather-react.netlify.app/"
           target="_blank"
-          rel="noreferrer"
+          rel=" noopener noreferrer"
         >
           Netlify{""}
         </a>
@@ -21,7 +21,7 @@ function App() {
         <a
           href="https://github.com/UmmSultee/weather_react"
           target="_blank"
-          rel="noreferrer"
+          rel=" noopener noreferrer"
         >
           {" "}
           open source
